@@ -5,7 +5,7 @@
   ],
   "routes": [
     { "src": "/Sareem", "dest": "/Sareem.js" },
-    { "src": "/kashif", "dest": "/kashif.js" },
+    { "src": "/Imran", "dest": "/Imran.js" },
     { "src": "/Ramzan", "dest": "/Ramzan.js" },
     { "src": "/Tarif", "dest": "/Tarif.js" },
     { "src": "/maqsood", "dest": "/maqsood.js" },
